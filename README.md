@@ -15,4 +15,3 @@ A problem solved as job exam.
 
 # Avtor
 - @Ziga-cyber
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/UyvqjdX" data-context="false" ><a href="//imgur.com/a/UyvqjdX">Title</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
