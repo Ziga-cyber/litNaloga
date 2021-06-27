@@ -15,4 +15,4 @@ A problem solved as job exam.
 
 # Avtor
 - @Ziga-cyber
-<img src="https://imgur.com/AMK4t1Y" width="200px"></scr>
+<img src="https://imgur.com/a/UyvqjdX" width="200px"></scr>
